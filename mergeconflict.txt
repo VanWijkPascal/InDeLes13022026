@@ -1,1 +1,2 @@
 a file for a merge conflict
+a file for a merge conflict
